@@ -1,0 +1,12 @@
+.DS_Store
+
+Example/build
+Pods/
+Podfile.lock
+!Samples/**/Podfile.lock
+
+xcuserdata/
+.idea/
+
+# Emacs temporary files
+*~

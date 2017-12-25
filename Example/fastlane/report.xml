@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.004818">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: match" time="31.992715">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: match" time="26.550575">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: match" time="25.365621">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: match" time="29.813307">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: match" time="26.285875">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: match" time="28.385805">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: match" time="37.502596">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
